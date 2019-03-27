@@ -2,7 +2,10 @@
 /**
  * This file represents an example of the code that themes would use to register
  * the required plugins.
- *
+ 
+ * ///IMPORTANT//Include/requre_once this file in the functions.php file///IMPORTANT////
+ 
+ 
  * It is expected that theme authors would copy and paste this code into their
  * functions.php file, and amend to suit.
  *
