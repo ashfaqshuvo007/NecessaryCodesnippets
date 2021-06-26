@@ -17,3 +17,6 @@
     RewriteRule ^ server.php
 
 </IfModule>
+
+
+#Also Remove // require_once __DIR__.'/public/index.php'; public from this line
